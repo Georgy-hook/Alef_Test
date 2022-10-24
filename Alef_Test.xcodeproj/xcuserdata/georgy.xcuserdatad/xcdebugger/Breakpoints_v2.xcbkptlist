@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EEFB00D6-9595-4073-A482-B483C62D3F54"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "895B9EAE-E13F-4E61-B3EA-94AFC0CDEAC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alef_Test/CustomField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "895B9EAE-E13F-4E61-B3EA-94AFC0CDEAC7 - a4b3077e37fff222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.__allocating_init(frame: __C.CGRect) -&gt; Alef_Test.CustomField"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "895B9EAE-E13F-4E61-B3EA-94AFC0CDEAC7 - 697d33e05c3ff794"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.init(frame: __C.CGRect) -&gt; Alef_Test.CustomField"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "895B9EAE-E13F-4E61-B3EA-94AFC0CDEAC7 - ec258b17684b3647"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Alef_Test.CustomField&gt;"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "895B9EAE-E13F-4E61-B3EA-94AFC0CDEAC7 - c2199edea6936110"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Alef_Test.CustomField&gt;"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "895B9EAE-E13F-4E61-B3EA-94AFC0CDEAC7 - 341c40ea48f204dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.__deallocating_deinit"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35175E7F-579A-4105-A9FF-1AEE53F5E13E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alef_Test/CustomField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CustomField"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "35175E7F-579A-4105-A9FF-1AEE53F5E13E - 20993d8ccec69911"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.labelText.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "35175E7F-579A-4105-A9FF-1AEE53F5E13E - d56eaa034c06cb65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.labelText.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "35175E7F-579A-4105-A9FF-1AEE53F5E13E - 407506d321c47d74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.labelText.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "35175E7F-579A-4105-A9FF-1AEE53F5E13E - 7dc0b1872e9ddbe1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.labelText.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "35175E7F-579A-4105-A9FF-1AEE53F5E13E - 697d33e05c3ff7b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.init(frame: __C.CGRect) -&gt; Alef_Test.CustomField"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "35175E7F-579A-4105-A9FF-1AEE53F5E13E - c2199edea6936131"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alef_Test.CustomField.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Alef_Test.CustomField&gt;"
+                  moduleName = "Alef_Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgy/Documents/%D0%9A%D1%83%D1%80%D1%81%D1%8B/Challenges/Alef_Test/Alef_Test/CustomField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02B73936-D32C-4E1A-9D14-E7BD542483DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alef_Test/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "addAlertForNewItem()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
